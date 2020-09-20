@@ -1,4 +1,14 @@
 ## JQuery
+### html获取及设置
+```
+$(".txt1").click(function(){
+    $("#test").text("Hello world!");
+  });
+```
+### 祖先遍历
+```
+$("h2").parent().css({"color":"red","border":"2px solid red"});
+```
 
 ## Bootstrap
 ### 网格系统
