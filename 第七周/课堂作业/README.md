@@ -49,7 +49,7 @@ $(document).ready(function () {
 </body>
 </html>
 ```
-![image]()
+![image](https://github.com/bige1997372/Database-Principle2/blob/master/%E7%AC%AC%E4%B8%83%E5%91%A8/%E8%AF%BE%E5%A0%82%E4%BD%9C%E4%B8%9A/jq1.png)
 ### 创建数据库与表，将上述制作的中英文双语数据导入数据库中,直接通过pdo访问数据库并包装返回结果
 search.php
 ```
